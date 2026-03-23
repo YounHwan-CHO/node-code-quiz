@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/daily-code-quiz/static/css/main.e6c13ad2.css",
-    "main.js": "/daily-code-quiz/static/js/main.6cfadb31.js",
+    "main.js": "/daily-code-quiz/static/js/main.a20daef5.js",
     "static/js/453.983d8a57.chunk.js": "/daily-code-quiz/static/js/453.983d8a57.chunk.js",
     "index.html": "/daily-code-quiz/index.html",
     "main.e6c13ad2.css.map": "/daily-code-quiz/static/css/main.e6c13ad2.css.map",
-    "main.6cfadb31.js.map": "/daily-code-quiz/static/js/main.6cfadb31.js.map",
+    "main.a20daef5.js.map": "/daily-code-quiz/static/js/main.a20daef5.js.map",
     "453.983d8a57.chunk.js.map": "/daily-code-quiz/static/js/453.983d8a57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6cfadb31.js"
+    "static/js/main.a20daef5.js"
   ]
 }
